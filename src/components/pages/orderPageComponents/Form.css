@@ -1,0 +1,12 @@
+.select_input{
+    width: 345px;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: -.05px;
+    color: #a0a1a4;
+    line-height: 22px;
+    cursor: pointer;
+    margin-bottom: 30px;
+}

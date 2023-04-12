@@ -1,0 +1,24 @@
+.footer_items_link {
+    text-decoration: none;
+    color: #454c5d;
+}
+.footer_items_email {
+    text-decoration: underline;
+}
+.first img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+@media (max-width: 767px) {
+    .first {
+        grid-row: 1
+    }
+    .second {
+        grid-row: 2;
+        margin: 42px auto 40px;
+    }
+    .third {
+        grid-row: 3
+    }
+}  
