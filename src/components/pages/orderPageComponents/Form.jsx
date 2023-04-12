@@ -160,6 +160,9 @@ const Order = () => {
               if (validationResult.email.valid && validationResult.name.valid) {
                 setEmail("");
                 setName("");
+                setText("");
+                setTime("");
+                setPrice(0);
                 alert("Form submitted!");
               }
             }}
